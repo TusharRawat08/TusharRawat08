@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning/Data Science,OpenCV Projects.**
 
-- 💬 I would love to listen and disscuss on **Data Science related topics ,Libraries,Algorithms which make things easy and fast And also Technology,Science,Astronomy too. Stuffs**
+- 💬 I would love to listen and disscuss on **Data Science related topics ,Libraries,Algorithms which make things easy and fast And also Technology,Science,Astronomy too.**
 
 - 📫 How to reach me **tsr08rawat@gmail.com**
 
