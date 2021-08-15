@@ -1,4 +1,4 @@
-[![MasterHead](https://www.teahub.io/photos/full/26-265214_download-pc-gaming-keyboard-monitor-computer-wallpapers-gaming.jpg)]
+![MasterHead](https://www.teahub.io/photos/full/26-265214_download-pc-gaming-keyboard-monitor-computer-wallpapers-gaming.jpg)
 <h1 align="center">Hi 👋, I'm Tushar Rawat</h1>
 <h3 align="center">A Enthusiastic Data Scientist || Data Analyst || Programmer</h3>
 
